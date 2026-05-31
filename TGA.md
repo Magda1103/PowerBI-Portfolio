@@ -6,9 +6,7 @@ This project provides a comprehensive analysis of historical data from "The Game
 ## Dashboard Preview
 | Nominations Analysis | Winners Overview |
 | :--- | :--- |
-| <img width="1024" height="575" alt="Obrazek 3" src="https://github.com/user-attachments/assets/25971acb-0aa2-4e47-baeb-ab92a63cb24d" />
-| <img width="1024" height="573" alt="Obrazek 1" src="https://github.com/user-attachments/assets/02b357cc-fd8a-4385-9534-1d6ab7c974b6" />
-|
+| <img width="1024" height="575" alt="Obrazek 3" src="https://github.com/user-attachments/assets/25971acb-0aa2-4e47-baeb-ab92a63cb24d" /> | <img width="1024" height="573" alt="Obrazek 1" src="https://github.com/user-attachments/assets/02b357cc-fd8a-4385-9534-1d6ab7c974b6" /> |
 
 ## Key Features
 - **Nominations Overview:** A detailed view of total nominations and award distribution across different categories.
