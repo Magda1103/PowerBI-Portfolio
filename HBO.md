@@ -6,9 +6,7 @@ This project presents an interactive Power BI report analyzing the HBO Max conte
 ## Dashboard Preview
 | Movies Report | TV Shows Report |
 | :--- | :--- |
-| <img width="1024" height="573" alt="Obrazek 8" src="https://github.com/user-attachments/assets/bebd2445-e9c1-4f91-a8c8-c4e8eed1af61" />
- | <img width="1024" height="572" alt="Obrazek 9" src="https://github.com/user-attachments/assets/6248bbee-c88c-4673-8bd3-e6a1545333cc" />
- |
+| <img width="1024" height="573" alt="Obrazek 8" src="https://github.com/user-attachments/assets/bebd2445-e9c1-4f91-a8c8-c4e8eed1af61" /> | <img width="1024" height="572" alt="Obrazek 9" src="https://github.com/user-attachments/assets/6248bbee-c88c-4673-8bd3-e6a1545333cc" /> |
 
 ## Key Features
 - **Dual-View Dashboard:** Seamless switching between "Movies" and "TV Shows" reports using a clean, modern navigation interface.
