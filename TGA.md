@@ -1,7 +1,7 @@
 # The Game Awards Analysis Project
 
 ## Project Overview
-This project provides a comprehensive analysis of historical data from "The Game Awards". The main objective is to explore patterns in award nominations, analyze industry trends, and highlight major milestones in gaming history, including a focus on the 2025 cycle.
+This project provides a comprehensive analysis of historical data from "The Game Awards 2025". The main objective is to explore patterns in award nominations, analyze industry trends, and highlight major milestones in gaming history, including a focus on the 2025 cycle.
 
 ## Dashboard Preview
 | Nominations Analysis | Winners Overview |
